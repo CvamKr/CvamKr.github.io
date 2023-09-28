@@ -54008,11 +54008,10 @@ ate(a){return new A.G2(new A.aHM(),"idCommitmentsPage",new A.aHN(a),"https://hii
 A.aHT.prototype={
 $1(a){var s,r,q,p=null,o="Inter",n=t.p,m=A.aO8(A.a([new A.c9(B.MM,A.apg(p,A.ex("Logout",p,p,p,p,p,p),p,new A.aHR(this.b),p,p),p)],n),p),l=this.a,k=l.d,j=l.adT(a,k),i=l.f,h=i.ax.c[0]
 h=l.Zm(h.b,h.c,h.a)
-i=i.ax.c
-s=i[1]
-r=s.b
-s=s.c
-i=A.o2(A.a([h,l.Zm(r,s,i[0].a)],n),B.ae,B.lw,B.aq)
+i=i.ax.c[1]
+s=i.b
+r=i.c
+i=A.o2(A.a([h,l.Zm(s,r,i.a)],n),B.ae,B.lw,B.aq)
 if(l.e.ay)h=A.cK(p,p,B.o,p,p,p,p,p,p,p,p,p,p)
 else{h=A.aOc(B.h1)
 s=A.CA(10)
