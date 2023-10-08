@@ -49828,7 +49828,7 @@ SM(a,b){var s=null,r=A.aK0(s,A.aK_(B.Kl,B.Y4,s,32),new A.axe(a,b),s,s)
 return new A.Qz(new A.ey(B.bm,new A.CN(b.c,40,B.l0,s),s),A.wU(B.h.j(b.f),s,s,s,s,s,s),A.wU(b.b,s,s,s,s,s,s),r,s)}}
 A.axf.prototype={
 $1(a){var s=null,r=t.V,q=this.a
-return A.Lw(A.a([A.fq(s,A.rP(B.cz,A.a([A.aLf(0,A.aEE("https://neuro.wharton.upenn.edu/wp-content/uploads/2020/04/iStock-Blog2-e1585773724832.jpg",s,B.l1,s)),A.amR(20,A.wU("3 days\nMeditation",s,s,s,A.pj(s,s,B.l,s,s,s,s,s,s,s,s,24,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),B.ev,s),s,s,20,0,s,s)],r),B.aa,B.dc,s),B.u,s,s,s,s,200,s,s,s,s,s),q.SM(a,a.gtS().c[0]),A.ij(s,10,s),q.SM(a,a.gtS().c[1])],r),B.b6,B.e0,B.cm)},
+return A.Lw(A.a([A.fq(s,A.rP(B.cz,A.a([A.aLf(0,A.aEE("https://neuro.wharton.upenn.edu/wp-content/uploads/2020/04/iStock-Blog2-e1585773724832.jpg",s,B.l1,s)),A.amR(20,A.wU("3 days\n30s to 2m+ Meditation",s,s,s,A.pj(s,s,B.l,s,s,s,s,s,s,s,s,24,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),B.ev,s),s,s,20,0,s,s)],r),B.aa,B.dc,s),B.u,s,s,s,s,200,s,s,s,s,s),q.SM(a,a.gtS().c[0]),A.ij(s,10,s),q.SM(a,a.gtS().c[1])],r),B.b6,B.e0,B.cm)},
 $S:371}
 A.axe.prototype={
 $0(){this.a.ly(this.b.a)},
